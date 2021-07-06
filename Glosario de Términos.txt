@@ -1,0 +1,13 @@
+*Glosario de Términos Utilizados*
+Definiciones de la Organización Internacional del Trabajo:
+- Sector Informal:Todos los trabajadores de empresas no constituidas en sociedad que producen al menos en parte para el mercado y no están registrados. Se excluyen los hogares que producen exclusivamente para uso final propio, agricultura de subsistencia, construcción de vivienda propia, etc. Casos que Incluye: 
+ o Empleados (o personas no clasificadas por situación en el empleo) no protegidos por la legislación laboral nacional en ese puesto, que incluye:
+	~ Empleados no afiliados a planes de seguridad social relacionados con el trabajo (o como fondos de pensiones sustitutos), y
+	~ Empleados que no tienen derecho a ciertos beneficios laborales, como vacaciones anuales pagadas y licencia por enfermedad pagada
+		(NOTA: Si no se hace ninguna de estas preguntas, no se produce la variable basada en la naturaleza del trabajo)
+ o Emprendedores en una unidad de producción que se considera informal, donde los empresarios se refieren a empleadores, miembros de cooperativas de productores y trabajadores por cuenta propia (solo si lo que se produce es para la venta); y
+ o Trabajadores familiares contribuyentes.
+El empleo formal se refiere a las personas que están empleadas y no tienen un empleo informal de acuerdo con los criterios anteriores.
+
+Definiciones del INE de Ecuador
+- Población con  empleo en el sector informal: Personas con empleo que trabajan en empresas que no  tienen Registro Único de Contribuyentes.

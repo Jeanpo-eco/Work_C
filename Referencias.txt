@@ -1,0 +1,45 @@
+Referencias por País
+Argentina
+	Desempleo: INDEC - Gob Argentina
+	Informal: OIT
+	Tasa de Participación: Sexo - INDEC, los demás OIT
+Bolivia
+	Desempleo: INE -Gob Bolivia
+	Informal: OIT
+	Tasa de Participación: OIT
+Brasil (Trimestral)
+	Desempleo: OIT
+	Informal: OIT
+	Tasa de Participación: OIT
+Chile (Trimestral)
+	Desempleo: OIT
+	Informal: OIT
+	Tasa de Participación: OIT
+Colombia (Trimestral)
+	Desempleo: OIT
+	Informal: OIT
+	Tasa de Participación: OIT
+Costa Rica 
+	Desempleo: OIT
+	Informal: OIT
+	Tasa de Participación: OIT
+Ecuador 
+	Desempleo: INEC - Gob Ecuador
+	Informal: INEC - Gob Ecuador
+	Tasa de Participación: OIT
+México (Trimestral)
+	Desempleo: OIT
+	Informal: INEGI - Gob México
+	Tasa de Participación: OIT
+Paraguay (Trimestral)
+	Desempleo: OIT
+	Informal: OIT
+	Tasa de Participación: -
+Perú (Trimestral)
+	Desempleo: OIT
+	Informal: OIT
+	Tasa de Participación: OIT
+Uruguay (Trimestral)
+	Desempleo: OIT
+	Informal: OIT
+	Tasa de Participación: OIT
