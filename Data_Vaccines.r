@@ -2,7 +2,6 @@
     #Source of the data: Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021). https://doi.org/10.1038/s41562-021-01122-8
 
 library(readr)
-library(knitr)
 library(openxlsx)
 #Get and clean data
 csv_path = "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
